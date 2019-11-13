@@ -17,7 +17,7 @@ CREATE TABLE BI_BM.TTC_DIM_TIEMPO
   ANIO_MES                 NUMBER,
   SEMANA_DESC              VARCHAR2(100 CHAR),
   DIM_KEY                  NUMBER,
-  DIA_DESC                 VARCHAR2(15 BYTE),
+  DIA_DESC                 VARCHAR2(15 CHAR),
   DIAS_DEL_MES             NUMBER,
   SEMANA                   NUMBER,
   SEMANA_COMIENZA          DATE,
